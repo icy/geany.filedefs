@@ -1,0 +1,38 @@
+My daily Geany dark theme
+
+Description
+-----------
+
+  My daily dark them for Geany.
+
+Screenshot
+----------
+
+  See http://gx.viettug.org/zen/kyanh/jobs/my_geany_theme_0.png.html
+
+Usage
+-----
+
+  1. Close any running instances of Geany
+  2. Backup your current settings in ~/.config/geany/filedefs/
+  3. Copy all files 'filetypes.*' to the directory ~/.config/geany/filedefs
+  4. Open Geany and select "invert syntax highlighting colors"
+              Menu Edit
+                / Preferences
+                / Editor
+                  / Display
+                  / Invert syntax highlighting colors
+
+License
+-------
+
+  This theme is based on some sources. Unfortunately I couldn't recall any
+  original authors. Publishing this theme on Github may help me to find them.
+  Please let me know if you any useful information. And please accept my
+  advance appoligies for missing.
+
+  Because I don't know exactly the original license (though it seems to be
+  an GPL-2), I would provide this source as a free as beer, under GPL-2.
+  You can use this theme for your personal purpose, but you wouldn't use
+  it for any commercial purposes. Moreover, the permission is subject to
+  change in case I can locate the original licenses and authors.
