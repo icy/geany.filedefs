@@ -1,17 +1,14 @@
-My daily Geany dark theme
+# My daily Geany dark theme
 
-Description
------------
+## Description
 
   My daily dark theme for Geany.
 
-Screenshot
-----------
+## Screenshot
 
-  1. Ruby session: http://gx.viettug.org/zen/cache/kyanh/jobs/my_geany_theme_0_650.png
+  See http://vonhudieu.net/zen/picture.php?/812/category/44
 
-Usage
------
+## Usage
 
   1. Close any running instances of Geany
   2. Backup your current settings in ~/.config/geany/filedefs/
@@ -23,8 +20,7 @@ Usage
                   / Display
                   / Invert syntax highlighting colors
 
-License
--------
+## License
 
   This theme is based on some sources. Unfortunately I couldn't recall any
   original authors. Publishing this theme on Github may help me to find them.
