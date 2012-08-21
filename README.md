@@ -11,14 +11,14 @@
 ## Usage
 
   1. Close any running instances of Geany
-  2. Backup your current settings in ~/.config/geany/filedefs/
-  3. Copy all files 'filetypes.*' to the directory ~/.config/geany/filedefs
-  4. Open Geany and select "invert syntax highlighting colors"
-              Menu Edit
-                / Preferences
-                / Editor
-                  / Display
-                  / Invert syntax highlighting colors
+  2. Backup your current settings in `~/.config/geany/filedefs/`
+  3. Copy all files `filesdefs/filetypes.*` to the directory `~/.config/geany/filedefs/`
+  4. Open Geany and select *invert syntax highlighting colors*
+        (Menu Edit
+          / Preferences
+          / Editor
+            / Display
+            / Invert syntax highlighting colors)
 
 ## License
 
