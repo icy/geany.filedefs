@@ -1,4 +1,5 @@
 # For complete documentation of this file, please see Geany's main documentation
+
 [styling]
 # foreground;background;bold;italic
 default=0x00002f;0xffffff;false;false
@@ -43,3 +44,17 @@ compiler=latex --file-line-error-style "%f"
 linker=pdflatex --file-line-error-style "%f"
 run_cmd=xdvi "%f"
 run_cmd2=xpdf "%f"
+
+[build-menu]
+FT_00_LB=LaTeX -> PDF
+FT_00_CM=pdflatex --file-line-error-style "%f"
+FT_00_WD=
+FT_01_LB=
+FT_01_CM=pdflatex --file-line-error-style "%f"
+FT_01_WD=
+EX_00_LB=V_iew PDF File
+EX_00_CM=evince "%e.pdf" &
+EX_00_WD=
+EX_01_LB=
+EX_01_CM=xdvi "%e.dvi"
+EX_01_WD=
