@@ -2,13 +2,13 @@
 [styling]
 # foreground;background;bold;italic
 default=0xff00ff;0xffffff;false;false
-commentline=0xd00000;0xffffff;false;false
+commentline=0x808080;0xffffff;false;true
 number=0x007f00;0xffffff;false;false
 word=0x111199;0xffffff;true;false
 string=0xff901e;0xffffff;false;false
 character=0x404000;0xffffff;false;false
 operator=0x301010;0xffffff;false;false
-identifier=0x000000;0xffffff;false;false
+identifier=0xff00ff;0xffffff;false;false
 backticks=0x000000;0xd0d0d0;false;false
 param=0x009f00;0xffffff;false;false
 scalar=0x105090;0xffffff;false;false
