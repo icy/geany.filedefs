@@ -17,7 +17,7 @@ here_delim=0x000000;0xddd0dd;false;false
 here_q=0x7f007f;0xddd0dd;false;false
 
 [keywords]
-primary=break case continue do done elif else esac eval exit export fi for function goto if in integer return set shift then until while
+primary=break case continue do done elif else esac eval exit export fi for function goto if in integer return set unset source declare readonly shift then until while
 
 
 [settings]
