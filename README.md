@@ -1,8 +1,8 @@
-# My daily Geany dark theme
+# A dark them for Geany
 
 ## Description
 
-  My daily dark theme for Geany.
+  This is a dark theme for Geany. It is good if you're working at night.
 
 ## Screenshot
 
@@ -22,11 +22,9 @@
 
 ## License
 
-  This theme is based on some sources. Unfortunately I couldn't recall any
-  original authors. Publishing this theme on Github may help me to find them.
-  Please let me know if you have any useful information. And please accept my
-  advance appologies for missing information.
+  I don't know the original license; I publish the source under a GPL-2.
+  You can use this theme for your personal work, but you shhould not use it
+  for any commercial purposes.
 
-  Because I don't know exactly the original license (though it seems to be
-  an GPL-2), I would provide this source under GPL-2. You can use this theme
-  for your personal work, but you can't use it for any commercial purposes.
+  If you have any information about the original author and/or license,
+  please let me know, and please accept my appologies.
