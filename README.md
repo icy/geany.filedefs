@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-  See http://vonhudieu.net/zen/picture.php?/812/category/44
+  See http://www.enlightenment.org/ss/e-536f662f1ee075.09165131.jpg
 
 ## Usage
 
