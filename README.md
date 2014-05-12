@@ -1,8 +1,8 @@
-# A dark them for Geany
+# A dark theme for Geany Editor
 
 ## Description
 
-  This is a dark theme for Geany. It is good if you're working at night.
+  This is a dark theme for Geany Editor. It is good if you're working at night.
 
 ## Screenshot
 
